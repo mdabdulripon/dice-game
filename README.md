@@ -1,4 +1,4 @@
-# It is mainly DOM Manipulation 
+# It Is Mainly DOM Manipulation 
 
 ## DICE GAME RULES:
 - [x] The game has 2 players, playing in rounds
